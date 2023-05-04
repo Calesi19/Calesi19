@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<div style="background-color: blue; color: white; padding: 10px;">
-This text is inside a blue box with white text.
-</div>
 
 <!--
 **Calesi19/Calesi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
