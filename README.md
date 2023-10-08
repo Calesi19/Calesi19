@@ -12,4 +12,6 @@ React & Svelte for my front-end frameworks. I'm also studying UI/UX design.
 
 
 Technologies I'm familiar with...
+
+
 ![Technologies](https://github.com/Calesi19/Calesi19/blob/main/logos.png?raw=true)
