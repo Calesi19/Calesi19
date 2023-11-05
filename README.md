@@ -1,19 +1,13 @@
 [!["Banner with Carlos Profile"](https://github.com/Calesi19/Calesi19/blob/main/banner.png?raw=true)](https://carloslespin.com/)
 
-### Hi there 👋
-
 # 🔭 I’m currently working on ...
 
-A Flutter App to aid timeshare salesmen in their presentations. It is supposed to feature all the calculators they need to close deals.
+| Column 1       | Column 2       |
+| -------------- | -------------- |
+| [!["Banner with Carlos Profile"](https://github.com/Calesi19/Calesi19/blob/main/banner.png?raw=true)](https://carloslespin.com/) | [!["Banner with Carlos Profile"](https://github.com/Calesi19/Calesi19/blob/main/banner.png?raw=true)](https://carloslespin.com/) |
 
-I'm also working on a website for a friend. She is selling food and needs a website where customers can order food. The website uses React, Express JS, and MongoDB.
-
-- 🌱 I’m currently learning ...
-
-React & Svelte for my front-end frameworks. I'm also studying UI/UX design.
 
 
 Technologies I'm familiar with...
-
 
 ![Technologies](https://github.com/Calesi19/Calesi19/blob/main/logos.png?raw=true)
