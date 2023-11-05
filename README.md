@@ -5,7 +5,7 @@
 
 | ![Technologies](aws.png)       | ![Technologies](react.png)       |
 | -------------- | -------------- |
-| [!["Banner with Carlos Profile"](https://github.com/Calesi19/Calesi19/blob/main/banner.png?raw=true)](https://carloslespin.com/) | [!["Banner with Carlos Profile"](https://github.com/Calesi19/Calesi19/blob/main/banner.png?raw=true)](https://carloslespin.com/) |
+
 
 
 
