@@ -1,4 +1,4 @@
-[!["Banner with Carlos Profile"](github_banner.png)](https://carloslespin.com/)
+[!["Banner with Carlos Profile"](docs/banner.png)](https://carloslespin.com/)
 
 # 🔭 I’m currently working on ...
 
@@ -9,5 +9,5 @@
 
 # Technologies I'm familiar with...
 
-![Technologies](https://github.com/Calesi19/Calesi19/blob/main/logos.png?raw=true)
+![Technologies](https://github.com/Calesi19/Calesi19/blob/main/docs/logos.png?raw=true)
 
