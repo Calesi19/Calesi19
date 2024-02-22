@@ -1,4 +1,4 @@
-[!["Banner with Carlos Profile"](docs/banner.png)](https://carloslespin.com/)
+[!["Banner with Carlos Profile"](docs/github_banner.png)](https://carloslespin.com/)
 
 # 🔭 I’m currently working on ...
 
